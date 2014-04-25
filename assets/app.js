@@ -4,7 +4,7 @@
 
     // Put custom repo URL's in this object, keyed by repo name.
     var repoUrls = {
-        'statik': 'http://pesima.net/'
+      'pesima.github.io': 'http://pesima.net/'
     };
 
     // Put custom repo descriptions in this object, keyed by repo name.
